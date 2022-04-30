@@ -1,4 +1,4 @@
 
 
 hook script that persistently removes license nags from Proxmox
-https://github.com/foundObjects/pve-nag-buster
+https://github.com/foundObjects/pve-nag-buster    install and shift refresh
